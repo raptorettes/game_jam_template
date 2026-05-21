@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://nawy1drko0ij"
-path="res://.godot/imported/Frog.png-f9f874998a884b0c9383d8c55c97dd87.ctex"
+uid="uid://bdb47nku64m4d"
+path="res://.godot/imported/Enemy-Sheet.png-9c9780abd10a0b6f21c2a93b7fd73b3e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://extra_assets/Frogs -Pixel Art Asset Pack/Frogs -Pixel Art Asset Pack/Frog 2/Frog.png"
-dest_files=["res://.godot/imported/Frog.png-f9f874998a884b0c9383d8c55c97dd87.ctex"]
+source_file="res://assets/spritesheets/girls/Enemy-Sheet.png"
+dest_files=["res://.godot/imported/Enemy-Sheet.png-9c9780abd10a0b6f21c2a93b7fd73b3e.ctex"]
 
 [params]
 

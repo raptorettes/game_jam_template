@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://ccsxhxc3kt7u3"
-path="res://.godot/imported/LeafGlider.png-6eb46dc663c02ccaa28621b31907c109.ctex"
+uid="uid://bd17g8kjmghbj"
+path="res://.godot/imported/Cupid-Sheet.png-c448ab1f1c7b5b1dffdb8bee43374ffd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://extra_assets/Frogs -Pixel Art Asset Pack/Frogs -Pixel Art Asset Pack/LeafGlider.png"
-dest_files=["res://.godot/imported/LeafGlider.png-6eb46dc663c02ccaa28621b31907c109.ctex"]
+source_file="res://assets/spritesheets/girls/Cupid-Sheet.png"
+dest_files=["res://.godot/imported/Cupid-Sheet.png-c448ab1f1c7b5b1dffdb8bee43374ffd.ctex"]
 
 [params]
 

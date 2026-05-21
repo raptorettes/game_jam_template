@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bd17g8kjmghbj"
-path="res://.godot/imported/Cupid-Sheet.png-0c99d81ad282597476e04aedee08596c.ctex"
+uid="uid://nawy1drko0ij"
+path="res://.godot/imported/Frog.png-bbede1b9be3c8753950f9dadde1bdef5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://extra_assets/girls/Cupid-Sheet.png"
-dest_files=["res://.godot/imported/Cupid-Sheet.png-0c99d81ad282597476e04aedee08596c.ctex"]
+source_file="res://assets/spritesheets/Frogs -Pixel Art Asset Pack/Frog 2/Frog.png"
+dest_files=["res://.godot/imported/Frog.png-bbede1b9be3c8753950f9dadde1bdef5.ctex"]
 
 [params]
 

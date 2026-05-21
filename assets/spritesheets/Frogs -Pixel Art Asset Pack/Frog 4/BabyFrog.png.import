@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c1o3k1ajap703"
-path="res://.godot/imported/Flower_Girl_Sheet.png-0dc542532b22752a9dbe106cbd6f41a1.ctex"
+uid="uid://din7amhtlqb0f"
+path="res://.godot/imported/BabyFrog.png-030d6743b6eea0e8c6c4d21a0140afc1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://extra_assets/girls/Flower_Girl_Sheet.png"
-dest_files=["res://.godot/imported/Flower_Girl_Sheet.png-0dc542532b22752a9dbe106cbd6f41a1.ctex"]
+source_file="res://assets/spritesheets/Frogs -Pixel Art Asset Pack/Frog 4/BabyFrog.png"
+dest_files=["res://.godot/imported/BabyFrog.png-030d6743b6eea0e8c6c4d21a0140afc1.ctex"]
 
 [params]
 

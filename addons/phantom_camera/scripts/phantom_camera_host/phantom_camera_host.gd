@@ -1,3 +1,4 @@
+
 @tool
 @icon("res://addons/phantom_camera/icons/phantom_camera_host.svg")
 class_name PhantomCameraHost

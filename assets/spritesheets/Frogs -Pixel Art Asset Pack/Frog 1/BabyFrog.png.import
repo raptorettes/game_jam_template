@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://ev12bpdj1xwm"
-path="res://.godot/imported/BabyFrog.png-6a3cac02975f5583afb339d3df4f95ac.ctex"
+uid="uid://drgils6hpmkx"
+path="res://.godot/imported/BabyFrog.png-4ee03931905ba9f0d71df07e573238ab.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://extra_assets/Frogs -Pixel Art Asset Pack/Frogs -Pixel Art Asset Pack/Frog 3/BabyFrog.png"
-dest_files=["res://.godot/imported/BabyFrog.png-6a3cac02975f5583afb339d3df4f95ac.ctex"]
+source_file="res://assets/spritesheets/Frogs -Pixel Art Asset Pack/Frog 1/BabyFrog.png"
+dest_files=["res://.godot/imported/BabyFrog.png-4ee03931905ba9f0d71df07e573238ab.ctex"]
 
 [params]
 
