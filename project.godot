@@ -11,8 +11,28 @@ config_version=5
 [application]
 
 config/name="Game_jam_template"
+run/main_scene="uid://h6flom3b4gbk"
 config/features=PackedStringArray("4.6", "GL Compatibility")
 config/icon="res://icon.svg"
+
+[autoload]
+
+PhantomCameraManager="*uid://duq6jhf6unyis"
+
+[display]
+
+window/size/mode=2
+window/stretch/mode="viewport"
+window/stretch/aspect="expand"
+window/stretch/scale_mode="integer"
+
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/phantom_camera/plugin.cfg", "res://addons/sprout_lands_tilemap/plugin.cfg", "res://addons/sprout_lands_ui/plugin.cfg")
+
+[gui]
+
+theme/custom="uid://bmf31mho1mjjt"
 
 [physics]
 
@@ -20,6 +40,18 @@ config/icon="res://icon.svg"
 
 [rendering]
 
+textures/canvas_textures/default_texture_filter=0
 rendering_device/driver.windows="d3d12"
 renderer/rendering_method="gl_compatibility"
 renderer/rendering_method.mobile="gl_compatibility"
+textures/stretch/aspect="expand"
+textures/stretch/mode="viewport"
+
+[sprout_lands_tilemap]
+
+disable_plugin_dialogues=true
+copy_path="res://examples"
+
+[sprout_lands_ui]
+
+disable_plugin_dialogues=true
